@@ -1,4 +1,2 @@
 #!/bin/bash
 gcc -S -O0 "$CFILE" -o "2-assembler.s"
-
-
